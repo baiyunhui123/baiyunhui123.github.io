@@ -30,6 +30,6 @@ I'm a second-year PhD student in the [Department of Philosophy at University of 
 
 I'm part of the interdisciplinary research group of [Meaning at Maryland](https://sites.google.com/umd.edu/meaning-at-maryland/home), where I'm also currently the web manager.
 
-Feel free to reach out to me at ybai1238@umd.edu.
+Feel free to reach out to me at `ybai1238@umd.edu`.
 
 
