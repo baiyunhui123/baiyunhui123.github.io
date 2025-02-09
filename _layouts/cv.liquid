@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
-[View PDF Document]({{ site.baseurl }}/assets/pdfs/example_pdf.pdf)
-
-<!-- Or with description -->
-<a href="{{ site.baseurl }}/assets/pdfs/example_pdf.pdf">
-    View PDF Document
-</a>
+<div class="custom-container">
+    <h2><object data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/your-document.pdf" 
+        width="100%" 
+        height="500px" 
+        type="application/pdf">
+    <p>Your browser doesn't support embedded PDFs.</p>
+</object></h2>
+    <p>This content uses pure HTML styling.</p>
+</div>
