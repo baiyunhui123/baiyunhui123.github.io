@@ -30,8 +30,6 @@ I'm a second-year PhD student in the [Department of Philosophy at University of 
 
 I'm part of the interdisciplinary research group of [Meaning at Maryland](https://sites.google.com/umd.edu/meaning-at-maryland/home), where I'm also currently the web manager.
 
-Feel free to reach out to me at [ybai1238@umd.edu](ybai1238@umd.edu).
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Feel free to reach out to me at ybai1238@umd.edu.
 
 
