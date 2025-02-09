@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Yunhui Bai
+title: about
 permalink: /
 subtitle: 
 
