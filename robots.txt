@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://baiyunhui123.github.iohttps://baiyunhui123.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://baiyunhui123.github.io/sitemap.xml
