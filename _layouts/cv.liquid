@@ -1,11 +1,23 @@
 ---
 layout: default
 ---
-<div class="custom-container">
-    <h2><object data="{{ site.url }}/assets/pdf/example_pdf.pdf" 
-        width="100%" 
-        height="500px" 
-        type="application/pdf">
-    <p>Your browser doesn't support embedded PDFs.</p>
-</object></h2>
+
+<div class="custom-container" style="text-align:center; margin-top:50px;">
+
+  <h2>Curriculum Vitae</h2>
+
+  <p style="margin-bottom:20px;">
+    If the PDF does not display below, 
+    <a href="{{ site.baseurl }}/assets/files/cv_resume.pdf" target="_blank">
+      click here to open it in a new tab.
+    </a>
+  </p>
+
+  <iframe 
+    src="{{ site.baseurl }}/assets/files/cv_resume.pdf"
+    width="100%"
+    height="700px"
+    style="border:none;">
+  </iframe>
+
 </div>
