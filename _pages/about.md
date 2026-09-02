@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a third-year PhD student in the [Department of Philosophy at the University of Maryland, College Park](https://philosophy.umd.edu/). My main interests are in semantics, pragmatics, philosophy of language and related areas.
+I'm a fourth-year PhD student in the [Department of Philosophy at the University of Maryland, College Park](https://philosophy.umd.edu/). My main interests are in semantics, pragmatics, philosophy of language and related areas.
 
 I'm part of the interdisciplinary research group of [Meaning at Maryland](https://sites.google.com/umd.edu/meaning-at-maryland/home).
 
