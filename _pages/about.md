@@ -28,4 +28,4 @@ I'm a fourth-year PhD student in the [Department of Philosophy at the University
 
 I'm part of the interdisciplinary research group of [Meaning at Maryland](https://sites.google.com/umd.edu/meaning-at-maryland/home).
 
-You can reach out to me at `ybai1238@umd.edu`.
+Feel free to reach out to me at `ybai1238@umd.edu`.
