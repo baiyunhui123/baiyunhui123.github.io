@@ -438,7 +438,7 @@ third_party_libraries:
         library: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/dist/echarts.min.js"
         dark_theme: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/theme/dark-fresh-cut.js"
     version: "5.5.0"
-  google_fonts:
+  google_fonts: Dosis
     url: 
       fonts: "https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
   highlightjs:
