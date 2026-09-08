@@ -7,17 +7,17 @@
 @import 'variables';
 
 :root, :host {
-  --#{$fa-css-prefix}-style-family-classic: '#{ $fa-style-family }';
-  --#{$fa-css-prefix}-font-regular: normal 400 1em/1 '#{ $fa-style-family }';
+  --#{$fa-css-prefix}-style-family-classic: '#{ $Dosis }';
+  --#{$fa-css-prefix}-font-regular: normal 400 1em/1 '#{ $Dosis }';
 }
 
 
 @font-face {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Dosis", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-display: $fa-font-display;
-  src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+  src: url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap" rel="stylesheet');
 }
 
 .far,
