@@ -439,7 +439,7 @@ third_party_libraries:
         dark_theme: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/theme/dark-fresh-cut.js"
     version: "5.5.0"
   google_fonts: 
-     url: "https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap"
+     url:
       fonts: "https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap"
   highlightjs:
     integrity:
